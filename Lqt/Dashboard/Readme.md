@@ -79,7 +79,7 @@ This dashboard provides a platform for monitoring key sustainability KPIs, ident
 - Multi-dimensional data visualization
 
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 18+** - Modern component-based architecture
