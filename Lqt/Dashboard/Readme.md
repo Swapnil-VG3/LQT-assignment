@@ -156,7 +156,7 @@ npm install recharts lucide-react
 npm run dev
 ```
 
-## 📊 Sample Data
+##  Sample Data
 
 The dashboard comes with realistic mock data including:
 
