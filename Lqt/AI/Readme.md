@@ -41,7 +41,7 @@ An AI-powered system that reads and understands various kind of PDF documents, a
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r Write_Text.txt
    ```
 
 4. **Get OpenAI API Key**
