@@ -177,7 +177,7 @@ The dashboard comes with realistic mock data including:
 - Info: Weekly waste reduction goal achieved
 
 
-## 📈 Success Metrics
+##  Success Metrics
 
 The dashboard tracks these key performance indicators:
 
